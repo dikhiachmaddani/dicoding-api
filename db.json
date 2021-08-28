@@ -1,0 +1,37 @@
+{
+    "homepage": {
+        "img": "https://i.ibb.co/tXHbhyN/homepage.png"
+    },
+    "cake": [
+        {
+            "id": 1,
+            "name": "waffle cupcake",
+            "img": "https://i.ibb.co/NyC6RbH/cake1.png"
+        },
+        {
+            "id": 2,
+            "name": "waffle cupcake",
+            "img": "https://i.ibb.co/jMpbqXt/cake2.png"
+        },
+        {
+            "id": 3,
+            "name": "waffle cupcake",
+            "img": "https://i.ibb.co/vPM7X32/cake3.png"
+        },
+        {
+            "id": 4,
+            "name": "waffle cupcake",
+            "img": "https://i.ibb.co/vv8vYf9/cake4.png"
+        },
+        {
+            "id": 5,
+            "name": "waffle cupcake",
+            "img": "https://i.ibb.co/mF0XGYS/cake5.png"
+        },
+        {
+            "id": 6,
+            "name": "waffle cupcake",
+            "img": "https://i.ibb.co/jVFqnm2/cake6.png"
+        }
+    ]
+}
